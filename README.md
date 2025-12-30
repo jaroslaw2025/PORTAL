@@ -1,6 +1,6 @@
 # Portal AR Prototype
 
-Browser-based, Android-first WebXR AR "PORTAL" MVP. Capture place data (GPS, photos, ambient audio, note), get contextual threads from a Python FastAPI backend, create an artifact, and (where supported) pin it as an AR context card via WebXR hit-test. Falls back to a non-AR list view on unsupported devices.
+Browser-based, Android-first WebXR AR "PORTAL" MVP (created on Lisbon mobility, CAPHE). Capture place data (GPS, photos, ambient audio, note), get contextual threads from a Python FastAPI backend, create an artifact, and (where supported) pin it as an AR context card via WebXR hit-test. Falls back to a non-AR list view on unsupported devices.
 
 ## Repo layout
 - `backend/` – FastAPI server with deterministic placeholder "AI backstage"
